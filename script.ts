@@ -53,3 +53,5 @@ class Studente extends Persona2{
 let persona2:Studente= new Studente('luigi','rossi',22,true,'liceoclassico');
 
 persona2.stampaNomeSuSchermo()
+
+
